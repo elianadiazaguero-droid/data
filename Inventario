@@ -17,7 +17,7 @@ fecha_ingreso DATE NOT NULL,
 --TINYINT permite representar el estado mediante 1 o 0.
 activo TINYINT NOT NULL
 );
-SELECT * FROM inventario
+SELECT * FROM inventario;
 -- ── SECCIÓN DML ──────────────────────────
 --Carga inicial de los productos
 INSERT INTO inventario(
@@ -32,7 +32,7 @@ activo
 )
 VALUES
 (1, 'Laptop Pro 15', 'Computación',1200.00, 15, 3, '2024-01-10', 1),
-(2, 'Mouse Inalámbrico', '	Accesorios', 28.00, 80, 10, '2024-01-10', 1),
+(2, 'Mouse Inalámbrico', 'Accesorios', 28.00, 80, 10, '2024-01-10', 1),
 (3, 'Monitor 4K 27"' , 'Computación', 450.00, 12, 2, '2024-01-15', 1),
 (4, 'Teclado Mecánico', 'Accesorios', 95.00, 40, 5, '2024-01-15', 1),
 (5, 'Laptop Basic 14', 'Computación', 650.00, 20, 3, '2024-02-01', 1),
