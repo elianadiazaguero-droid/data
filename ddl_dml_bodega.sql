@@ -1,3 +1,8 @@
+-- ══════════════════════════════════════════
+-- BodegaTech — Script de Inventario
+-- Autor: ELIANA DIAZ
+-- Fecha: 15/08/2026
+-- ══════════════════════════════════════════
 -- ── SECCIÓN DDL ──────────────────────────
 --Elimar la tabla si ya existe para poder ejecutar nuevamente
 DROP TABLE IF EXISTS inventario;
