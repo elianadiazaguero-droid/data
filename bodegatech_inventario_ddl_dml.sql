@@ -1,7 +1,7 @@
 -- ══════════════════════════════════════════
 -- BodegaTech — Script de Inventario
 -- Autor: ELIANA DIAZ
--- Fecha: 15/08/2026
+-- Fecha: 11/10/2026
 -- ══════════════════════════════════════════
 -- ── SECCIÓN DDL ──────────────────────────
 --Elimar la tabla si ya existe para poder ejecutar nuevamente
