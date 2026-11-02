@@ -21,3 +21,4 @@ SELECT * FROM Productos;
 -- BIT porque solo puede tener dos valores:
 -- 1= Activo
 -- 0= Inactivo
+
