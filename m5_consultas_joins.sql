@@ -1,9 +1,9 @@
--- =====================================================
+-- ====================================================
 -- PROYECTO RETAILPRO
 -- Módulo 5 - Pre-entrega: Consultas con JOINs
 -- Título: Cruzando tablas para enriquecer el análisis
 -- Alumna: Eliana Diaz
--- =====================================================
+-- ====================================================
 
 USE ventas_tech_DB;
 
