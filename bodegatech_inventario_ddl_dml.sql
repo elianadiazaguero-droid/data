@@ -3,7 +3,7 @@
 -- Autor: ELIANA DIAZ
 -- Fecha: 11/10/2026
 -- ══════════════════════════════════════════
--- ── SECCIÓN DDL ──────────────────────────
+-- ── SECCIÓN DDL ─────────────────────────
 --Elimar la tabla si ya existe para poder ejecutar nuevamente
 DROP TABLE IF EXISTS inventario;
 -- Creacion de la tabla
